@@ -1,0 +1,26 @@
+body {
+  background-color: powderblue;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+h1,h3 {
+    color: #66bfbf;
+}
+
+.form {
+    color: blue;
+}
+
+/* #td {
+    background-color: beige;
+} */

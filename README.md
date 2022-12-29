@@ -7,4 +7,4 @@ Technologies To Learn
 3. BOOTSTRAP ✅
 4. JAVASCRIPT ✅
 5. JQUERY (a javascript library) ✅
-6. ReactJs 
+6. ReactJs (a javascript frontEnd framework)

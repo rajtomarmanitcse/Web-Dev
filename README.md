@@ -6,5 +6,5 @@ Technologies To Learn
 2. CSS ✅
 3. BOOTSTRAP ✅
 4. JAVASCRIPT ✅
-5. JQUERY (a javascript library) 
+5. JQUERY (a javascript library) ✅
 6. ReactJs 
